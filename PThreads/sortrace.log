@@ -1,0 +1,14 @@
+Generating 1000000 random numbers
+Starting system sort
+sort: cannot read: numbers.dat: No such file or directory
+
+real	0m0.017s
+user	0m0.005s
+sys	0m0.001s
+Starting my sort
+./sortrace.sh: line 25: mysort: command not found
+
+real	0m0.100s
+user	0m0.002s
+sys	0m0.011s
+sort: open failed: mysort.out: No such file or directory
